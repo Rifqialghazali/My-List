@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ror
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string a = "lolok sapi";
+            int b = 1;
+
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            Console.ReadLine();
+        }
+    }
+}
