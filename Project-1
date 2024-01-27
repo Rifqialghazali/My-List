@@ -12,7 +12,7 @@ namespace ror
         {
             string a = "lolok sapi";
             int b = 1;
-            string c = "dapa hensom boy"
+            string c = "dapa hensom boy";
 
             Console.WriteLine(a);
             Console.WriteLine(b);
